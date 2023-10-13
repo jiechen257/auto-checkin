@@ -17,7 +17,7 @@
 > 这部分需要进行https抓包，可以使用whistle或者charles，记得安装ca证书
 
 先看抓包的请求列表：
-![](https://cdn.becase.xyz/20220920095804.png)
+![](http://cdn.becase.top/20220920095804.png)
 
 *getDetail获取个人打卡信息，doDetail发送post请求打卡*
 
@@ -98,9 +98,9 @@
 ### 邮箱的smtp
 脚本中使用了邮箱的smtp来进行`打卡操作结果`的实时通知
 
-![](https://cdn.becase.xyz/20220920100818.png)
+![](http://cdn.becase.top/20220920100818.png)
 
 ### 自动化
 使用云服务器的自动任务执行功能，宝塔配置如下，其他自动化脚本自行google
 
-![](https://cdn.becase.xyz/20220920101509.png)
+![](http://cdn.becase.top/20220920101509.png)
